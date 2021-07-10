@@ -1,3 +1,3 @@
 Model - Accuracy
 
-BERT - 76.78%
+BERT - 82.6%
