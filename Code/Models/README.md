@@ -1,6 +1,6 @@
 Model - Accuracy
 
-BERT - 82.6%
+BERT - 82.78%
 
 RoBERTa - 84.56%
 
